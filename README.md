@@ -1,5 +1,5 @@
 ### Oi! Meu nome é Agatha Peña 👋
 #### Seja muito bem-vindo(a) ao meu perfil!
 
-- 🤓 Cursando o Ensino Médio com Habilitação Técnica em *Desenvolvimento de Sistemas*(2/3)
+- 🤓 Cursando o Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas (2/3)
 - 💻 Qualificação Profissional: Auxiliar em Desenvolvimento de Sistemas 
