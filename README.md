@@ -35,8 +35,8 @@
 ## Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HtaPenna&custom_title=Resumo%20de%20Atividade&show_icons=true&title_color=CACBDD&text_color=CACBDD&icon_color=BA8C58&bg_color=393043" width="48%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtaPenna&custom_title=Uso%20de%20Linguagens&layout=compact&langs_count=7&bg_color=393043&title_color=CACBDD&text_color=CACBDD&icon_color=79ff9" width="48%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HtaPenna&custom_title=Resumo%20de%20Atividade&show_icons=true&title_color=CACBDD&text_color=CACBDD&icon_color=BA8C58&bg_color=393043"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtaPenna&custom_title=Uso%20de%20Linguagens&layout=compact&langs_count=7&bg_color=393043&title_color=CACBDD&text_color=CACBDD&icon_color=79ff9"/>
 </div>
 
 ---
